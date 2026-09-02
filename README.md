@@ -41,6 +41,8 @@ ESP32 → LCD → System Status
 
 ESP32 → Wi-Fi Access Point → Mobile Phone → Web Dashboard
 
+![Smart Garage V2 System Architecture](images/system-architecture.png)
+
 ---
 
 ## 🔧 Main Components
