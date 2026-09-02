@@ -209,8 +209,7 @@ The system integrates multiple subsystems while keeping the main control loop re
 
 ## 🎥 Demo
 
-A demonstration video of Smart Garage V2 running as an integrated system will be included in the project showcase.
-
+[▶️ Watch the Smart Garage V2 Demo](https://drive.google.com/file/d/1GiO7K6huaqfgBKdYIsO6L8E8KnPvTDqq/view?usp=drivesdk)
 ---
 
 ## 👥 Team
