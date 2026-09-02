@@ -189,7 +189,21 @@ The system integrates multiple subsystems while keeping the main control loop re
 
 ## 📸 Project Gallery
 
-Project photos and the web dashboard interface will be added here.
+### Smart Garage V2
+
+![Smart Garage V2](images/smart-garage.jpg)
+
+![Smart Garage V2 Prototype](images/smart-garage-1.jpg)
+
+![Project Prototype](images/prototype.jpg)
+
+### Web Dashboard
+
+![Smart Garage Dashboard](images/Dashboard.jpg)
+
+### Lighting & LCD System
+
+![Lighting and LCD](images/lightingandLCD.jpg)
 
 ---
 
